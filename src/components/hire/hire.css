@@ -1,0 +1,27 @@
+.hire{
+    text-align: center;
+}
+
+.hire__bg{
+    background-color: var(--first-color-second);
+    padding-top: 3rem;
+}
+
+.hire__title{
+    font-size: var(--h2-font-size);
+    margin-bottom: var(--mb-0-75);
+}
+
+.hire__description{
+    margin-bottom: var(--mb-1-5);
+}
+
+.hire__title,
+.hire__description{
+    color: #fff;
+}
+
+.hire__img{
+    width: 232px;
+    justify-self: center;
+}
